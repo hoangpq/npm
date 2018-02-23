@@ -200,6 +200,7 @@
     "npm-install-checks",
     "npm-package-arg",
     "npm-packlist",
+    "npm-pick-manifest",
     "npm-profile",
     "npm-registry-client",
     "npm-user-validate",
